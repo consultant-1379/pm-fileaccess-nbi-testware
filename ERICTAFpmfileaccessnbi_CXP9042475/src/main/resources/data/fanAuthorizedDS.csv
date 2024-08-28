@@ -1,0 +1,2 @@
+testCaseId,testCaseTitle,user,findInResponseString,shouldFind, role
+TORF-574623-19,Verify that a new user configured with a Role compatible with the new Posix attribute can access PM files,fanAuthorizedUser,files,TRUE, PM_NBI_Operator

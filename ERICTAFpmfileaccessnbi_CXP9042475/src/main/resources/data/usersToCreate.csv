@@ -1,0 +1,3 @@
+username,firstName,lastName,email,password,enabled,roles,passwordResetFlag
+fanAuthorizedUser,authorized,fan,fanAuthorizedUser@test.ie,TestPassw0rd,TRUE,PM_NBI_Operator,FALSE
+fanUnauthorizedUser,unauthorized,fan,fanUnauthorizedUser@test.ie,TestPassw0rd,TRUE,FM_Operator,FALSE

@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="PM_FileAccess_NBI - Deliverance">
+    <test name="PM_FileAccess_NBI" preserve-order="true" parallel="false" enabled="true">
+        <classes>
+            <class name="com.ericsson.oss.testware.pmfileaccessnbi.cases.FileAccessNbiSetup"/>
+            <class name="com.ericsson.oss.testware.pmfileaccessnbi.cases.FileAccessNbiScenario"/>
+            <class name="com.ericsson.oss.testware.pmfileaccessnbi.cases.FileAccessNbiTearDown"/>
+        </classes>
+    </test>
+</suite>

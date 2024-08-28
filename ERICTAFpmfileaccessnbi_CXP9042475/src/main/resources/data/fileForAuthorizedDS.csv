@@ -1,0 +1,5 @@
+requestFilePath,expectedStatusCode,expectedContent
+/file/v1/files/ericsson/pmic1/testFilePmic1.txt,200,Test
+/file/v1/files/ericsson/pmic2/testFilePmic2.txt,200,Test
+/file/v1/files/ericsson/ul_spectrum_files/testFilePmul.txt,200,Test
+/file/v1/files/ericsson/ul_spectrum_files/invalid.txt,404,404 Not Found
